@@ -1,0 +1,6 @@
+PySide6
+psutil
+winrt-Windows.Media.Control
+winrt-Windows.Foundation
+winrt-Windows.Storage
+winrt-Windows.Storage.Streams
