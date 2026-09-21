@@ -35,7 +35,7 @@ It sits quietly at the top of your screen as a small digital clock. Clicking it 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dynamic-window.git
+   git clone https://github.com/logeswar589/dynamic-window.git
    cd dynamic-window
    ```
 
